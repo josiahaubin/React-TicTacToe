@@ -1,0 +1,17 @@
+.Header-titlebox {
+    border: 5px solid white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.Game-title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 0px;
+}
+
+img {
+    width: auto;
+    height: 10rem;
+}

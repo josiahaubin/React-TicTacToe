@@ -1,10 +1,12 @@
+import TitleHeader from '../Components/TitleHeader.js'
+
 import '../Stylings/App.css';
 
 function App() {
   return (
     <div className="App">
       <div className="App-header">
-        <h1>Test</h1>
+        <TitleHeader />
       </div>
     </div>
   );

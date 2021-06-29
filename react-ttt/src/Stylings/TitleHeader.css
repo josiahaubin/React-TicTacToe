@@ -11,12 +11,13 @@
     margin-bottom: 0px;
 }
 
-img {
+.React-img {
     width: auto;
     height: 10rem;
+    animation: React-img-spin infinite 5s linear;
 }
 
-@keyframes App-logo-spin {
+@keyframes React-img-spin {
     from {
         transform: rotate(0deg);
     }
